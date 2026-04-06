@@ -193,6 +193,9 @@ int main(){
                     scanf("%d", &jogarnovamente2);  
                 }          
             }
+
+            // JOGO 3: GOUSMAS WAR
+            
             else if(opcao == 3){
             int jogarNovamente3 = 1;
             while(jogarNovamente3 == 1){
